@@ -4,6 +4,7 @@
 using namespace std ;
 
 int main () {
+    int abc;
     int n[3] ;
     for (int i=0 ; i<3 ; i++ ) {
         cin >> n[i] ;

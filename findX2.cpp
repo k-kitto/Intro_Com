@@ -8,5 +8,7 @@ int main () {
 
     cout << (s*2) - x1 ;
 
+
+    
     return 0 ;
 }
